@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CSCI3130 Group Assignment</string>
+    <string name="FIREBASE_URL">https://csci3130-group-assignment-default-rtdb.firebaseio.com/</string>
+    <string name="JOBS_COLLECTION">Jobs</string>
+    <string name="APPLICANTS_LIST">Applicants</string>
+    <string name="HIRED_LIST">Hired</string>
+    <string name="ACCEPTED_LIST">Accepted</string>
+
+
+    <string-array name="Register_Spinner">
+        <item>Employer</item>
+        <item>Employee</item>
+    </string-array>
+</resources>

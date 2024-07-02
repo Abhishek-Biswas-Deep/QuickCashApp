@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "861069058588",
+    "project_id": "csci3130-group-assignment",
+    "storage_bucket": "csci3130-group-assignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861069058588:android:5e00ab548e2e48c4c435d9",
+        "android_client_info": {
+          "package_name": "com.example.csci3130groupassignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgseISQWzlXotekEn940W21jLSJu7pGs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
