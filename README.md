@@ -1,4 +1,5 @@
 # QuickCashApp
+## Associated with Dalhousie University
 
 QuickCash is a robust Android application designed for job posting and searching, featuring PayPal integration for secure transactions. 
 
