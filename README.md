@@ -20,6 +20,7 @@ Test-Driven Development (TDD): Implemented with TDD principles to enhance code q
 
 XP Programming: Followed XP Programming practices to foster collaboration and continuous improvement in development.
 
+It took 3 months to build it. I worked with six other people and it turned out better than expected!
 
 Demo-
 https://github.com/Abhishek-Biswas-Deep/QuickCashApp/assets/109815149/ba7ba657-7c75-42f6-be44-052b86c03880
