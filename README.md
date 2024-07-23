@@ -20,6 +20,6 @@ Test-Driven Development (TDD): Implemented with TDD principles to enhance code q
 XP Programming: Followed XP Programming practices to foster collaboration and continuous improvement in development.
 
 
-Live demo-
+Demo-
 https://github.com/Abhishek-Biswas-Deep/QuickCashApp/assets/109815149/ba7ba657-7c75-42f6-be44-052b86c03880
 
