@@ -1,5 +1,7 @@
+<img src="https://github.com/user-attachments/assets/2ad86f70-12b4-4500-997d-9f8c1874a9b5" alt="Dal logo" width="80"/>
+<h1>Associated with Dalhousie University</h1>
+
 # QuickCashApp
-## Associated with Dalhousie University
 ### CSCI3130 Group Assignment
 
 QuickCash is a robust Android application designed for job posting and searching, featuring PayPal integration for secure transactions. 
