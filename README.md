@@ -27,3 +27,6 @@ It took 4 months to build it. I worked with six other people and it turned out t
 Demo-
 https://github.com/Abhishek-Biswas-Deep/QuickCashApp/assets/109815149/ba7ba657-7c75-42f6-be44-052b86c03880
 
+#### Acknowledgments
+A huge thank you to my team for their encouragement and understanding.
+
